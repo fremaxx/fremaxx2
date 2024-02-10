@@ -5,7 +5,7 @@ const dietModels={
             image: "photos/diet1.jpg",
             description: "Alex Snodgrass, The Comfortable Kitchen author, unveils Dinner Tonight—accessible weeknight dinners focused on cleaned up comfort food. Flexible recipes cater to various diets, ideal for the food freedom stage of health journeys. From Seared Tuna to Chipotle Turkey-Stuffed Poblano Peppers, Dinner Tonight makes delicious, healthy meals achievable for everyone, regardless of hectic schedules.",
             price: 35,
-            amazonLink: 'https://amzn.to/4984ewJ'
+            amazonLink: 'https://amzn.to/49bWOIW'
            
         },
         {
@@ -13,14 +13,14 @@ const dietModels={
             image: "photos/diet2.jpg",
             description: " From the #1 bestselling author of Glucose Revolution, Jessie Inchauspé presents The Glucose Goddess Method—a four-week program for balanced blood sugar, offering 100 recipes, an interactive workbook, and science-proven strategies. Endorsed by Robert H. Lustig and David Sinclair, this guide enhances energy, curbs cravings, and promotes better sleep without calorie counting, making health accessible for all.",
             price: 35,
-            amazonLink:'https://amzn.to/496Hm0P'
+            amazonLink:'https://amzn.to/3uww9HW'
         },
         {
             name: "Un-Junk Your Diet: How to Shop, Cook, and Eat to Fight Inflammation and Feel Better Forever",
             image: "photos/diet3.jpg",
             description: "In Un-Junk Your Diet, Desiree Nielsen, a trusted dietitian, explores anti-inflammatory eating, providing 101 food swaps and insights into overfed and undernourished issues. The book guides readers through supermarket smarts, whole foods emphasis, and debunking nutrition myths. Nielsen's engaging approach empowers healthier choices, making optimal nutrition accessible and practical",
             price: 19.99,
-            amazonLink: 'https://amzn.to/49arWbZ'
+            amazonLink: 'https://amzn.to/3SABPbV'
            
         },
         {
@@ -28,28 +28,28 @@ const dietModels={
             image: "photos/diet4.jpg",
             description: "Embark on the transformative 40-Day Sugar Fast, exchanging sugar for a deeper connection with Jesus. This journey addresses emotional eating, boredom, and spiritual lethargy. Learn to shift focus from temporary comforts to Christ, discovering freedom from cravings and a renewed appetite for God's goodness. Prioritize spiritual nourishment over physical detox for soul satisfaction..",
             price: 16.99,
-            amazonLink: 'https://amzn.to/48ba8Mv'
+            amazonLink: 'https://amzn.to/3OzwfFd'
         },
         {
             name: "Skinnytaste Simple: Easy, Healthy Recipes with 7 Ingredients or Fewer: A Cookbook",
             image: "photos/diet5.jpg",
             description: " Enjoy Skinnytaste Simple, a collection of 120 easy, flavorful dishes by Gina Homolka, with seven ingredients or fewer. These no-fuss recipes, from Chilaquiles to Flourless Sea Salt Brownies, offer maximum flavor and nutrition with minimal effort. Perfect for busy days, each recipe includes dietary icons and updated Weight Watchers points on the Skinnytaste site.",
             price: 35,
-            amazonLink: 'https://amzn.to/3Uxrj7F'
+            amazonLink: 'https://amzn.to/3OFVYMx'
         },
         {
             name: "Juicing for Beginners: The Essential Guide to Juicing Recipes and Juicing for Weight Loss",
             image: "photos/diet6.jpg",
             description: "Juicing for Beginners is your go-to guide for weight loss and well-being. Explore detoxes, cleanses, and the art of juicing with practical tips on choosing a juicer. This book features 100 restorative recipes, highlighting the health benefits of fruits and vegetables. Discover a juicing plan that suits your lifestyle and weight loss goals, helping you feel good and get lean with every sip.",
             price: 11.99,
-            amazonLink: 'https://amzn.to/3HWfJM6'
+            amazonLink: 'https://amzn.to/48bJD9I'
         },
         {
             name: "Women, Food, and Hormones: A 4-Week Plan to Achieve Hormonal Balance, Lose Weight, and Feel Like Yourself Again",
             image: "photos/diet7.jpg",
             description: " In the New York Times bestseller Women, Food, and Hormones, Dr. Sara Gottfried unveils a female-friendly keto plan—The Gottfried Protocol. This science-based approach addresses women's unique hormonal needs, optimizing fat loss, decreasing stress, improving detoxification, and targeting belly fat. With over 50 recipes, it's a transformative guide to hormonal balance and lasting health.",
             price: 18.99,
-            amazonLink: 'https://amzn.to/3wcgTjO'
+            amazonLink: 'https://amzn.to/3HXVUnz'
            
         },
         {
@@ -57,14 +57,14 @@ const dietModels={
             image: "photos/diet8.jpg",
             description: " Based on biblical principles and extensive research, George Malkmus' The Hallelujah Diet encourages a reconsideration of daily food habits. This transformative guide explores the diet's biblical foundation, emphasizing the healing power of living and organic foods. It covers exercise, sunlight, water, stress balance, and rest for holistic health, complemented by testimonials and practical resources.",
             price: 18.99,
-            amazonLink: 'https://amzn.to/49p6LTL'
+            amazonLink: 'https://amzn.to/48davpT'
         },
         {
             name: "132+ Delicious Salads, Dressings And Dips: (Gabrielle's FUSS-FREE Healthy Veg Recipes)",
             image: "photos/diet9.jpg",
             description: "  In 132+ Delicious Salads, Dressings And Dips, author Gabrielle Raiz transforms basic salads into flavorful masterpieces. With over 132 recipes, delectable dressings, and creamy dips, Raiz offers creative combinations for every taste. This comprehensive cookbook, suitable for various diets, introduces innovative techniques to elevate salads into satisfying and nutritious main meals.",
             price: 18.95,
-            amazonLink: 'https://amzn.to/49p6TTf'
+            amazonLink: 'https://amzn.to/48ceEdt'
            
         },
         {
@@ -72,14 +72,14 @@ const dietModels={
             image: "photos/diet10.jpg",
             description: "  Explore the simplicity of the Mediterranean diet with The 30-Minute Mediterranean Diet Cookbook. Uncover its principles, essential ingredients, and potential health benefits, promoting a heart-healthy lifestyle. From avocado toast to mushroom-barley soup, the cookbook offers over 100 delicious recipes, accommodating all skill levels with beginner-friendly instructions, ensuring quick and wholesome meals for the whole family.",
             price: 17.99,
-            amazonLink: 'https://amzn.to/4bpwI6O'
+            amazonLink: 'https://amzn.to/3ODIDUY'
         },
         {
             name: "Food List Encyclopedia for Diabetes: The Complete Updated Guide of Foods that Don’t Spike Blood Sugar to Stay Healthy",
             image: "photos/diet11.jpg",
             description: " Discover the power of the Mediterranean diet with The 30-Minute Mediterranean Diet Cookbook. Explore essential ingredients, guiding principles, and potential health benefits. From avocado toast to mushroom-barley soup, enjoy over 100 nourishing recipes for every meal. Beginner-friendly instructions and a variety of dishes make adopting this heart-healthy lifestyle easy and delicious.",
             price: 17.97,
-            amazonLink: 'https://amzn.to/499UQJ0'
+            amazonLink: 'https://amzn.to/49vD033'
            
         },
         {
@@ -87,21 +87,21 @@ const dietModels={
             image: "photos/diet12.jpg",
             description: " Discover personalized well-being with the New York Times bestselling Eat Right 4 Your Type. Uncover the unique diet and health plan tailored to your blood type. This revised edition offers insights into optimal foods, exercises, and lifestyle choices, empowering you to combat diseases and slow down aging without relying on restrictive diets.  ",
             price: 30,
-            amazonLink: 'https://amzn.to/3UARURn'
+            amazonLink: 'https://amzn.to/4by1fzh'
         },
         {
             name: "The Complete Ketogenic Diet for Beginners: Your Essential Guide to Living the Keto Lifestyle",
             image: "photos/diet13.jpg",
             description: "The Complete Ketogenic Diet for Beginners simplifies the start of the ketogenic lifestyle, offering meal plans, shopping lists, and support. This beginner-friendly guide explains keto fundamentals and provides 75 easy-to-follow recipes like Bacon-Artichoke Omelets. The book includes a 14-day meal plan, making keto accessible and enjoyable for weight loss or overall health. Embrace easy, delicious, and healthy keto living today.",
             price: 11.99,
-            amazonLink: 'https://amzn.to/3HXffVX'
+            amazonLink: 'https://amzn.to/4bxnUvE'
         },
         {
             name: "Complete Guide To Fasting: Heal Your Body Through Intermittent, Alternate-Day, and Extended Fasting",
             image: "photos/diet14.jpg",
             description: "  Discover the ultimate guide to intermittent fasting with The Complete Guide to Fasting. Whether you're new to fasting or refining your plan, this manual offers a 7-Day Kick-Start Fasting Plan, 20 healing recipes, and answers to common questions. Learn how intermittent fasting enhances weight loss, improves health conditions, and aligns with various diets. Enjoy a simpler, effective approach to fasting!",
             price: 35.95,
-            amazonLink: 'https://amzn.to/4890DNL'
+            amazonLink: 'https://amzn.to/3SBEXUF'
            
         },
         {
@@ -109,7 +109,7 @@ const dietModels={
             image: "photos/diet15.jpg",
             description: " Discover the key to long-term weight loss with Meal Prep for Weight Loss. Learn efficient meal planning and preparation to enjoy healthy, nourishing meals throughout the week. With shopping lists, recipes, and step-by-step instructions, this cookbook offers versatile plans suitable for a Mediterranean or DASH diet. Achieve sustainable weight loss success with flavorful recipes and balanced eating.  ",
             price: 15.99,
-            amazonLink: 'https://amzn.to/3SrBKHm'
+            amazonLink: 'https://amzn.to/49z6MnH'
         },
       
       
